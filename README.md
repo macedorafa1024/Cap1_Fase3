@@ -30,7 +30,7 @@ Nesta **Fase 3**, esses dados são importados e estruturados em um banco Oracle 
 
 ---
 
-# 📁 2. Estrutura do Repositório
+# 2. Estrutura do Repositório
 
 Cap1_Fase3  
 │  
