@@ -177,3 +177,9 @@ Nesta fase, realizamos:
 - a validação da base, garantindo que todos os registros foram carregados corretamente;
 - a execução de consultas SQL que permitem compreender o comportamento do solo e da irrigação;
 - a criação de uma base sólida para análises estatísticas, dashboards e outras aplicações futuras.
+
+---
+
+# 8. Vídeo de Demonstração
+ 
+👉 [LINK DO VÍDEO](https://youtu.be/K2b8WefPjuk)
